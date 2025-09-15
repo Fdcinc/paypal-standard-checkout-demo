@@ -11,3 +11,6 @@ This project demonstrates how to create and capture orders using PayPal’s REST
 - Express.js backend
 - PayPal Checkout SDK integration
 - Sandbox + Live environment support
+- Dockerized for easy deployment
+- Includes healthcheck endpoint
+- RESTful API design
