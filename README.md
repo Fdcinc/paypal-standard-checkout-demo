@@ -7,4 +7,7 @@ This project demonstrates how to create and capture orders using PayPal’s REST
 
 
 
-## 🚀 Feautures
+## 🚀 Features
+- Express.js backend
+- PayPal Checkout SDK integration
+- Sandbox + Live environment support
