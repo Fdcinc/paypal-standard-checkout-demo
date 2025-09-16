@@ -12,5 +12,7 @@ This project demonstrates how to create and capture orders using PayPal’s REST
 - PayPal Checkout SDK integration
 - Sandbox + Live environment support
 - Dockerized for easy deployment
-- Includes healthcheck endpoint
+- Includes healthcheck endpoint **
 - RESTful API design
+
+## 🚀 Option 1: Share the Image on Docker Hub
