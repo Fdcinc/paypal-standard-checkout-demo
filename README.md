@@ -17,6 +17,4 @@ This project demonstrates how to create and capture orders using PayPal’s REST
 
 ## 🚀 Option 1: Share the Image on Docker Hub
 1. Login to Docker Hub
-   <input>bash \n
-     docker login
-   />
+   <input>bash</input>
