@@ -23,3 +23,23 @@ This project demonstrates how to create and capture orders using PayPal’s REST
    docker login
 
    ```
+2. Tag the image (replace YOURUSER with your Docker Hup username):
+   ```
+   bash
+   
+   docker tag paypal-express-app:1.0 YOURUSER/paypal-express-app:1.0
+
+   ```
+3. Push the image:
+   ```
+   bash
+
+   docker push YOURUSER/paypal-express-app:1.0
+
+   ```
+
+
+
+
+
+      
