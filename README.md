@@ -37,7 +37,18 @@ This project demonstrates how to create and capture orders using PayPal’s REST
    docker push YOURUSER/paypal-express-app:1.0
 
    ```
+👉 Now anyone can run your app with:
 
+   ```
+   bash
+
+   docker run -p 3000:3000 \
+  -e PAYPAL_ENV=sandbox \
+  -e PAYPAL_CLIENT_ID=XXXX \
+  -e PAYPAL_CLIENT_SECRET=XXXX \
+  YOURUSER/paypal-express-app:1.0
+
+  ```
 
 
 
